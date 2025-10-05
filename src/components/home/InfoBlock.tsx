@@ -4,7 +4,7 @@ import Highlighted from "../Highlighted";
 import TabMenu from "../TabMenu";
 const InfoBlock = () => {
   return (
-    <section className="my-container min-h-screen my-20">
+    <section id="courses" className="my-container min-h-screen my-20">
       <TabMenu />
       <div className="flex flex-col lg:flex-row justify-center gap-10 md:gap-20 ">
         <div className="w-full lg:w-1/2">

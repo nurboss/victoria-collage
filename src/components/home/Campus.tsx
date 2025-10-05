@@ -26,7 +26,7 @@ const arr: CampusItem[] = [
 
 const Campus = () => {
   return (
-    <section className="py-20 mt-50">
+    <section id="campuses" className="py-20 mt-50">
       <div className="bg-dark-800 min-h-screen w-full h-full relative">
         <div className="bg-dark-800 md:bg-transparent py-10 md:py-0 my-container absolute -top-40 left-1/2 -translate-x-1/2 space-y-10 w-full ">
           <div className="w-full flex flex-col justify-center md:flex-row gap-1 ">

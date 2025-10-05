@@ -1,6 +1,5 @@
 # Victoria Collage – Home Page (React + Tailwind CSS)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE_URL/deploy-status)](https://netlify.com)  
 [Live Demo](https://victoria-collage.netlify.app/)
 
 A React application implementing a homepage design from a Figma file. Styling is done using Tailwind CSS.
@@ -68,6 +67,11 @@ Make sure you have the following installed:
 
 ### Installation
 
+1. Clone the repo
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
 1. Clone the repo
    ```bash
    git clone https://github.com/your-username/your-repo-name.git

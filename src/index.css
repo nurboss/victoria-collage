@@ -41,7 +41,7 @@
 @layer base {
   html,
   body {
-    @apply font-inter text-white;
+    @apply font-inter text-white scroll-smooth;
   }
   .my-container {
     @apply max-w-[90rem] mx-auto px-4 sm:px-6 lg:px-8;

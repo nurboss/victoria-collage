@@ -5,7 +5,7 @@ import Highlighted from "../Highlighted";
 
 const Story = () => {
   return (
-    <section className="my-container min-h-screen">
+    <section id="stories" className="my-container min-h-screen">
       <h1 className="text-4xl md:text-5xl 2xl:text-6xl font-black uppercase my-20">
         <Highlighted color="var(--color-dark-800)">stories</Highlighted>
       </h1>
