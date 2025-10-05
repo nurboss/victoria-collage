@@ -1,79 +1,63 @@
-# Victoria Collage – Home Page (React + Tailwind CSS)
+# Victoria College - React App
 
-[Live Demo](https://victoria-collage.netlify.app/)
+A responsive and modern homepage for Victoria College, built with React and Tailwind CSS. This project was designed from a Figma file and focuses on providing an optimal viewing experience across all devices.
 
-A React application implementing a homepage design from a Figma file. Styling is done using Tailwind CSS.
+# 🚀 Live Demo
 
----
-
-## Table of Contents
-
-1. [About the Project](#about-the-project)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [Screenshots / Preview](#screenshots--preview)
-5. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
-   - [Running Locally](#running-locally)
-   - [Building for Production](#building-for-production)
-6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+Check out the live version here: [Live Demo](https://victoria-collage.netlify.app/)
 
 ---
 
-## About the Project
+# Victoria College Website
 
-This project is a React application built to replicate a homepage design (from Figma) using Tailwind CSS. The live version is deployed on Netlify.  
-You can view the live version here: https://victoria-collage.netlify.app/
+A responsive website for Victoria College featuring student testimonials and modern design.
 
----
+## ✅ Completed Requirements
 
-## Features
+- **Faker API Integration**: Successfully implemented Faker API to generate realistic student testimonials with random names, avatars, and feedback
+- **Mobile-First Responsive Design**: The entire website is fully responsive and well-aligned across all screen sizes (desktop, tablet, and mobile)
 
-- Responsive homepage layout
-- Tailwind CSS utility-first styling
-- Clean, modular React component structure
-- Adapted from a Figma design
-- Deployed to Netlify for live viewing
+## 🛠️ Technologies Used
 
----
+- **React** - Frontend framework
+- **Tailwind CSS** - Utility-first CSS framework
+- **Faker API** - For generating realistic testimonial data
+- **React Icons** - For beautiful icons
+- **Netlify** - Deployment platform
 
-## Tech Stack
+## 📦 Installation & Local Setup
 
-- **React** (with Create React App or Vite, depending on your setup)
-- **Tailwind CSS** (for styling)
-- **JavaScript / JSX**
-- **Netlify** (for deployment)
-
----
-
-## Screenshots / Preview
-
-_(You can insert images/screenshots of your homepage here.)_
-
----
-
-## Getting Started
+Follow these steps to run this project locally:
 
 ### Prerequisites
 
-Make sure you have the following installed:
+- Node.js (version 14 or higher)
+- npm or yarn package manager
 
-- Node.js (v14 / v16 / latest LTS)
-- npm or yarn
+### Step-by-Step Instructions
 
-### Installation
+1. **Clone the repository**
 
-1. Clone the repo
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone <https://github.com/nurboss/victoria-collage.git>
+   cd victoria-college
    ```
-1. Clone the repo
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
+
+2. **Install dependencies**
+
+```bash
+npm install
+# or
+yarn install
+```
+
+3. **Start the development server**
+
+```bash
+npm start
+# or
+yarn start
+```
+
+4. **Open your browser**
+   Navigate to http://localhost:3000 to view the application
