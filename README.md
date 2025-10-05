@@ -12,7 +12,7 @@ Check out the live version here: [Live Demo](https://victoria-collage.netlify.ap
 
 A responsive website for Victoria College featuring student testimonials and modern design.
 
-## ✅ Completed Requirements
+## ✅ Extra Requirements Completed.
 
 - **Faker API Integration**: Successfully implemented Faker API to generate realistic student testimonials with random names, avatars, and feedback
 - **Mobile-First Responsive Design**: The entire website is fully responsive and well-aligned across all screen sizes (desktop, tablet, and mobile)
@@ -21,8 +21,8 @@ A responsive website for Victoria College featuring student testimonials and mod
 
 - **React** - Frontend framework
 - **Tailwind CSS** - Utility-first CSS framework
-- **Faker API** - For generating realistic testimonial data
-- **React Icons** - For beautiful icons
+- **Faker JSON data for API** - For generating realistic testimonial data
+- **Lucid Icons** - For beautiful icons
 - **Netlify** - Deployment platform
 
 ## 📦 Installation & Local Setup
@@ -38,10 +38,10 @@ Follow these steps to run this project locally:
 
 1. **Clone the repository**
 
-   ```bash
-   git clone <https://github.com/nurboss/victoria-collage.git>
-   cd victoria-college
-   ```
+```bash
+git clone <https://github.com/nurboss/victoria-collage.git>
+cd victoria-college
+```
 
 2. **Install dependencies**
 
